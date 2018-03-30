@@ -1,0 +1,35 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,
+// Version 2.0, in this case for Apache MyFaces Trinidad Examples
+// ------------------------------------------------------------------
+
+Apache MyFaces Trinidad Examples
+Copyright 2001-2018 The Apache Software Foundation
+
+This product includes/uses software(s) developed by 'an unknown organization'
+  - commons-beanutils
+
+This product includes/uses software(s) developed by 'Apache Software Foundation' (http://www.apache.org)
+  - commons-collections
+
+This product includes/uses software(s) developed by 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Digester (http://jakarta.apache.org/commons/digester/)
+      License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+  - EL (http://jakarta.apache.org/commons/el/)
+      License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+This product includes/uses software(s) developed by 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons Lang (http://commons.apache.org/lang/)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache MyFaces JSF-1.1 API (http://myfaces.apache.org/core11/myfaces-api)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache MyFaces JSF-1.1 Implementation (http://myfaces.apache.org/core11/myfaces-impl)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache MyFaces Trinidad API (http://myfaces.apache.org/trinidad/trinidad-api)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache MyFaces Trinidad Impl (http://myfaces.apache.org/trinidad/trinidad-impl)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
